@@ -16,7 +16,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
   
   - Comecei a me interessar por progamação no começo de 2022, mas nunca passava na minha cabeça começar a progamar já que eu estava cursando uma faculdade na época, porém depois de muito refletir sobre, percebi que não era aquilo que eu realmente queria fazer, deixei a faculdade pra trás no final de abril e comecei a me focar em programação, mais especificamente em front end o qual despertou o meu interesse.
   
-  - Sou uma pessoa calma e até um pouco introvertida porém isso não me impede de trabalhar em equipe ou ter boas relações com as peessoas, lido bem melhor seguindo ordens do que dando elas, mas se eu tiver alguma ideia ou algo que me incomode não tenho medo de falar e dar as minhas opiniões.
+  - Sou uma pessoa calma e até um pouco introvertida porém isso não me impede de trabalhar em equipe ou ter boas relações com as peessoas, lido bem melhor seguindo ordens do que dando elas mas se eu tiver alguma ideia ou algo que me incomode não tenho medo de falar e dar as minhas opiniões.
   
   
   
