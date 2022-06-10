@@ -1,27 +1,30 @@
-### Oi, meu nome é Vitor Riquelme
+# :man_technologist: Vitor Riquelme
 
-<div align="center">
-  <a href="https://github.com/VitorRiquelme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRiquelme&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-riquelme-986496222/)](https://www.linkedin.com/in/vitor-riquelme-986496222/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitoriquelme)](https://t.me/vitoriquelme)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriquelme1@gmail.com)](mailto:vitoriquelme1@gmail.com)
+
+Meu nome é Vitor Riquelme tenho 20 anos, atualmente estudando por conta própia para me torna um progamador front end
+
+- :books: Estudando: HTML5, CSS3, Javascript
+- :books: Pretendo aprender no futuro: Python
+
+---
+
+<details>
+  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary></br>
   
-  ### Estudando no momento
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="50" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+  - Comecei a me interessar por progamação no começo de 2022, mas nunca passava na minha cabeça começar a progamar já que eu estava cursando uma faculdade na época, porém depois de muito refletir sobre, percebi que não era aquilo que eu realmente queria fazer, deixei a faculdade pra trás no final de abril e comecei a me focar em programação, mais especificamente em front end o qual despertou o meu interesse.
+  - 
   
-  ### Pretendo estudar no futuro
-  <div style="display: inline_block">
-    <img align="center" alt="Python" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="CSS" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-</div>
-
-## Contato
-<div> 
-  <a href = "mailto:vitoriquelme1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-riquelme-986496222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  ### Github stats
+ </br><a href="https://github.com/VitorRiquelme/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
+  </a>
+  
+---
+ <a href="https://github.com/VitorRiquelme/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRiquelme&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  
+ 
