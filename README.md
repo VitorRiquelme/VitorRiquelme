@@ -4,7 +4,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitoriquelme)](https://t.me/vitoriquelme)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriquelme1@gmail.com)](mailto:vitoriquelme1@gmail.com)
 
-Meu nome é Vitor Riquelme tenho 20 anos, atualmente estudando por conta própia para me torna um progamador front end
+Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própria para me torna um progamador front end
 
 - :books: Estudando: HTML5, CSS3, Javascript
 - :books: Pretendo aprender no futuro: Python
