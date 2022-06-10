@@ -18,7 +18,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
   
   - Sou uma pessoa calma e até um pouco introvertida porém isso não me impede de trabalhar em equipe ou ter boas relações com as peessoas, lido bem melhor seguindo ordens do que dando elas mas se eu tiver alguma ideia ou algo que me incomode não tenho medo de falar e dar as minhas opiniões.
   
-  
+  - Sou totalmente aberto a dicas e criticas acho que essa é a melhor forma de se tornar excelente em algo
   
   ---
   
