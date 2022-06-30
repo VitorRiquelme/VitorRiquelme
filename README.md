@@ -7,7 +7,7 @@
 Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própria para me torna um progamador front end
 
 - :books: Estudando: HTML5, CSS3, Javascript
-- :books: Pretendo aprender no futuro: Python
+- :books: Pretendo aprender no futuro: Python,Java,C++
 
 ---
 
