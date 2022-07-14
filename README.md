@@ -1,8 +1,10 @@
 # :man_technologist: Vitor Riquelme
+<!--contatos-->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-riquelme-986496222/)](https://www.linkedin.com/in/vitor-riquelme-986496222/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitoriquelme)](https://t.me/vitoriquelme)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriquelme1@gmail.com)](mailto:vitoriquelme1@gmail.com)
 
+<!-- uma introdução basica falando sobre mim-->
 Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própria para me torna um progamador front end
 
 - :books: Estudando: HTML5, CSS3, Javascript
@@ -12,7 +14,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
 
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary></br>
-  
+  <!-- detalhes sobre mim e como eu sou -->
   - Comecei a me interessar por progamação no começo de 2022, mas nunca passava na minha cabeça começar a progamar já que eu estava cursando uma faculdade na época, porém depois de muito refletir sobre, percebi que não era aquilo que eu realmente queria fazer, deixei a faculdade pra trás no final de abril e comecei a me focar em programação, mais especificamente em front end o qual despertou o meu interesse.
   
   - Sou uma pessoa calma e até um pouco introvertida porém isso não me impede de trabalhar em equipe ou ter boas relações com as peessoas, lido bem melhor seguindo ordens do que dando elas mas se eu tiver alguma ideia ou algo que me incomode não tenho medo de falar e dar as minhas opiniões.
@@ -20,7 +22,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
   - Sou totalmente aberto a dicas e criticas acho que essa é a melhor forma de se tornar excelente em algo
   
   ---
-  
+  <!-- a parte de status que deixa o perfil "bonitinho"-->
   ### Github stats
  </br><a href="https://github.com/VitorRiquelme/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
