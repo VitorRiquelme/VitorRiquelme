@@ -40,7 +40,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   ---
   ### Ferramentas
-  <img align="center" alt="GIthub" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"">
+  <img align="center" alt="GIthub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"">
   
   ---
    <a href="https://github.com/VitorRiquelme/github-profile-views-counter">
