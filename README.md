@@ -1,5 +1,5 @@
 # :man_technologist: Vitor Riquelme
-
+!-- contatos --!
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-riquelme-986496222/)](https://www.linkedin.com/in/vitor-riquelme-986496222/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitoriquelme)](https://t.me/vitoriquelme)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriquelme1@gmail.com)](mailto:vitoriquelme1@gmail.com)
