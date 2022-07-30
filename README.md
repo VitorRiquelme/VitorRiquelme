@@ -26,7 +26,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
   <!-- a parte de status que deixa o perfil "bonitinho"-->
   ### Github stats
  </br><a href="https://github.com/VitorRiquelme/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&count_private=true&theme=tokyonight" />
   </a>
   
  <a href="https://github.com/VitorRiquelme/github-readme-stats">
