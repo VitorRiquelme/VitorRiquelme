@@ -10,7 +10,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
 - :books: Estudando: HTML5, CSS3, Javascript
 - :books: Pretendo aprender no futuro: Python,Java e php
 
----
+
 
 <details>
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary></br>
@@ -30,7 +30,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando por conta própri
   
  </br><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VitorRiquelme&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
   
-  ---
+  
   ### Tecnologias usadas
   
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
