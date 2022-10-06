@@ -9,9 +9,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um 
 
 - :books: Estudando: HTML5, CSS3, Javascript
 
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary></br>
-  <!-- detalhes sobre mim e como eu sou -->
+
   
   
   ## Tecnologias e ferramentas usadas
