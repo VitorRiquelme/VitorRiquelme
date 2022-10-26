@@ -31,7 +31,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um 
  
  </br>
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VitorRiquelme&background=111E2E&border=334152&currStreakNum=FFFFFF&fire=07CBFF&sideLabels=07CBFF&ring=2300FF&currStreakLabel=07CBFF&sideNums=FFFFFF&dates=B7D1E6"/>
- <a href="https://github-readme-stats.vercel.app/api/pin/?username=VitorRiquelme&repo=github-readme-stats)](https://github.com/VitorRiquelme/github-readme-stats"
+ <a href="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/VitorRiquelme/github-readme-stats"
 
   
  
