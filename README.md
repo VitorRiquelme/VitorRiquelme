@@ -1,18 +1,18 @@
-# :man_technologist: Vitor Riquelme
+## :man_technologist: Vitor Riquelme
 <!--contatos-->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-riquelme-986496222/)](https://www.linkedin.com/in/vitor-riquelme-986496222/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitoriquelme)](https://t.me/vitoriquelme)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriquelme1@gmail.com)](mailto:vitoriquelme1@gmail.com)
 
 <!-- uma introdução basica falando sobre mim-->
-Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um progamador front end
+Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um progamador front end.
 
 - :books: Estudando: Javascript.
 
 
   
   
-  ## Tecnologias e ferramentas usadas
+  ### Tecnologias e ferramentas usadas
   <img  alt="Html-icon" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img  alt="CSS3-icon" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img  alt="JavaScript-icon" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -22,7 +22,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um 
   <img  alt="Git-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </br>
   
-  ## Github stats
+  ### Github stats
  </br><a href="https://github.com/VitorRiquelme/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&count_private=true&theme=aura"/>
   </a>
