@@ -22,7 +22,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um 
   <img  alt="Git-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   </br>
   
-  ### Github stats
+  ## Github stats
  </br><a href="https://github.com/VitorRiquelme/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorRiquelme&show_icons=true&count_private=true&theme=aura"/>
   </a>
