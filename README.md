@@ -5,9 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vitoriquelme1@gmail.com)](mailto:vitoriquelme1@gmail.com)
 
 <!-- uma introdução basica falando sobre mim-->
-Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um progamador front end.
+Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um progamador front end
 
-- :books: Estudando: Javascript.
+- :books: Estudando: Javascript
 
 
   
