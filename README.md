@@ -20,6 +20,7 @@ Meu nome é Vitor Riquelme  tenho 20 anos atualmente estudando para me torna um 
   <img  alt="Vscode-icon" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img  alt="Github-icon" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   <img  alt="Git-icon" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img  alt="React-icon" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </br>
   
   ## Github stats
